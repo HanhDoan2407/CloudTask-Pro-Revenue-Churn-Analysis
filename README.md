@@ -5,3 +5,7 @@ CloudTask Pro is a SaaS company that has grown from 0 to 600 customers since 202
 - Which subscription plan (Starter, Professional, Business, Enterprise) has the highest churn rate? Does billing cycle (monthly vs. annual) significantly impact retention?
 - What are the top 3 reasons customers churn, and do these reasons differ by plan type or company size?
 - What is the average Customer Lifetime Value (CLV) by plan? How does this compare to Customer Acquisition Cost (CAC), and which plans are the most and least profitable?
+# Tech Stack
+- SQL
+- Excel
+- Power BI
