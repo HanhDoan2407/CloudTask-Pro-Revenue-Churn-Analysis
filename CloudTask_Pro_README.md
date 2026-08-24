@@ -189,45 +189,6 @@ Enterprise customers have the highest CLV by a large margin.
 Even though Enterprise has the lowest overall churn rate, retaining these customers is strategically important because each lost customer represents substantially more potential lifetime revenue.
 
 ---
-
-# Methodology
-
-### SQL
-
-SQL was used for:
-
-- Customer and churn calculations
-- Churn rates by plan and billing cycle
-- Monthly churn trend analysis
-- Churn reason analysis
-- Customer lifetime calculation
-- CLV and CAC analysis
-
-### Excel
-
-Excel was used to:
-
-- Validate SQL results
-- Build PivotTables
-- Compare churn across customer segments
-- Explore churn reasons
-- Validate CLV, CAC and CLV/CAC calculations
-
-### Power BI
-
-Power BI was used to create an interactive dashboard containing:
-
-- KPI cards
-- Monthly churn and MRR trends
-- Churn by subscription plan
-- Churn by billing cycle
-- Plan × billing cycle comparison
-- Churn reasons
-- Company-size analysis
-- CLV and CLV/CAC comparisons
-
----
-
 # Dataset
 
 The project uses two datasets:
