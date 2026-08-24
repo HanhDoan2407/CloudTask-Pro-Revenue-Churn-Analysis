@@ -1,0 +1,5 @@
+plan,avg_mrr,avg_lifetime_months,clv,cac,clv_cac_ratio
+Enterprise,2984.99,14.36,42875.35,200.04,214.33
+Business,1303.64,14.18,18487.93,200.04,92.42
+Professional,497.04,10.24,5090.18,200.04,25.45
+Starter,215.54,6.22,1339.75,200.04,6.7
