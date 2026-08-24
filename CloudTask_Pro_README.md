@@ -36,15 +36,15 @@ The Power BI dashboard contains three pages:
 
 ### Power BI — Executive Overview
 
-![CloudTask Pro Power BI Executive Overview](images/powerbi_executive_overview.png)
+![CloudTask Pro Power BI Executive Overview](page%201.png)
 
 ### Power BI — Churn Analysis
 
-![CloudTask Pro Power BI Churn Analysis](images/powerbi_churn_analysis.png)
+![CloudTask Pro Power BI Churn Analysis](page%202.png)
 
 ### Power BI — Unit Economics
 
-![CloudTask Pro Power BI Unit Economics](images/powerbi_unit_economics.png)
+![CloudTask Pro Power BI Unit Economics](page%203.png)
 
 > **Power BI file:** `churn_analysis.pbix`
 
